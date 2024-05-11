@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<iq:manifest version="3" xmlns:iq="http://www.garmin.com/xml/connectiq">
+    <iq:application id="452a908c-3776-4cd4-b288-aae8bef9182e" type="watchface" name="@Strings.AppName" entry="_0_hello_worldApp" launcherIcon="@Drawables.LauncherIcon" minApiLevel="3.3.0">
+        <iq:products>
+            <iq:product id="fr245"/>
+            <iq:product id="fr245m"/>
+        </iq:products>
+        <iq:permissions/>
+        <iq:languages/>
+        <iq:barrels/>
+    </iq:application>
+</iq:manifest>
